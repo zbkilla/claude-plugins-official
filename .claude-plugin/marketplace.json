@@ -2378,7 +2378,7 @@
         "url": "https://github.com/Snowflake-Labs/snowflake-ai-kit.git",
         "path": "plugins/cortex-code",
         "ref": "main",
-        "sha": "c3f720020a3b6c8927f97362c2e5884e959acd53"
+        "sha": "dbd0d6353fd6324783272d59aa2c7ad69814f606"
       },
       "homepage": "https://docs.snowflake.com/en/user-guide/cortex-code"
     },
